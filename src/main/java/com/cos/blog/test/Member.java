@@ -1,4 +1,4 @@
-package com.cos.test;
+package com.cos.blog.test;
 
 import lombok.Builder;
 import lombok.Data;
